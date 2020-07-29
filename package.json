@@ -1,0 +1,19 @@
+{
+  "name": "jstransformer-org",
+  "version": "1.0.0",
+  "description": "org-mode support for JSTransformers",
+  "main": "index.js",
+  "dependencies": {
+    "org": "^0.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "test-jstransformer": "^1.1.0"
+  },
+  "scripts": {
+    "test": "test-jstransformer"
+  },
+  "keywords": ["jstransformer"],
+  "author": "jcpst",
+  "license": "MIT"
+}
